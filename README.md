@@ -25,12 +25,6 @@ CraveCart is a modern food delivery web application built using **ReactJS**, **R
 
 ---
 
-## 📸 Screenshots
-
-*Add your app screenshots here if available*
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
